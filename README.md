@@ -1,3 +1,13 @@
+# Problem statement
+
+**Đề bài**: Viết chương trình kiểm tra năm đó có phải năm nhuận hay không. \
+**Problem**: Write a program to check whether a year is a leap year or not.\
+**Input**: 2000 \
+**Output**: "2000 is a leap year". 
+
+**Input**: 2001 \
+**Output**: "2001 is not a leap year".
+
 # Instructions
 
 ## Setup
